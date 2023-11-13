@@ -1,0 +1,34 @@
+{
+  "appBackgroundHexColor": "#3498db",
+  "videos": [
+    {
+      "videoTitle": "Introduction to puppies",
+      "videoThumbnail": "https://app.et/devtest/images/image1.png",
+      "videoUrl": "https://app.et/devtest/videos/video1.mp4",
+      "videoDescription": "Learn the basics of puppies."
+    },
+    {
+      "videoTitle": "Puppies State Management",
+      "videoThumbnail": "https://app.et/devtest/images/image2.png",
+      "videoUrl": "https://app.et/devtest/videos/video2.mp4",
+      "videoDescription": "Explore different puppies state management techniques."
+    },
+    {
+      "videoTitle": "Building Responsive Puppies",
+      "videoThumbnail": "https://app.et/devtest/images/image3.png",
+      "videoUrl": "https://app.et/devtest/videos/video3.mp4",
+      "videoDescription": "Create responsive Puppies."
+    },
+    {
+      "videoTitle": "Puppies and Firebase Integration",
+      "videoThumbnail": "https://app.et/devtest/images/image4.png",
+      "videoUrl": "https://app.et/devtest/videos/video1.mp4",
+      "videoDescription": "Integrate Puppies with Firebase for world domination."
+    },
+    {
+      "videoTitle": "Puppies Animations",
+      "videoThumbnail": "https://app.et/devtest/images/image5.png",
+      "videoUrl": "https://app.et/devtest/videos/video2.mp4"
+    }
+  ]
+}
