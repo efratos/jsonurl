@@ -9,25 +9,25 @@
     },
     {
       "videoTitle": "Puppies State Management",
-      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image1.png",
+      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image2.png",
       "videoUrl": "https://app.et/devtest/videos/video2.mp4",
       "videoDescription": "Explore different puppies state management techniques."
     },
     {
       "videoTitle": "Building Responsive Puppies",
-      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image1.png",
+      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image3.png",
       "videoUrl": "https://app.et/devtest/videos/video3.mp4",
       "videoDescription": "Create responsive Puppies."
     },
     {
       "videoTitle": "Puppies and Firebase Integration",
-      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image1.png",
+      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image4.png",
       "videoUrl": "https://app.et/devtest/videos/video1.mp4",
       "videoDescription": "Integrate Puppies with Firebase for world domination."
     },
     {
       "videoTitle": "Puppies Animations",
-      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image1.png",
+      "videoThumbnail": "https://raw.githubusercontent.com/efratos/jsonurl/main/image5.png",
       "videoUrl": "https://app.et/devtest/videos/video2.mp4"
     }
   ]
